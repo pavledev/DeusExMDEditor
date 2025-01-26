@@ -1,0 +1,11 @@
+{
+    "name": "deusexmdeditor",
+    "version": "1.0.0",
+    "dependencies": [
+        "directxtex",
+        "directxtk",
+        "rapidjson",
+        "sfml",
+        "effects11"
+    ]
+}
